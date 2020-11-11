@@ -1,4 +1,5 @@
- af_NA: "Afrikaans (Namibia)",
+   /* List of code to translate data */ 
+    af_NA: "Afrikaans (Namibia)",
     af_ZA: "Afrikaans (South Africa)",
     af: "Afrikaans",
     ak_GH: "Akan (Ghana)",
